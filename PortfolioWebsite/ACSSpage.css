@@ -9,7 +9,7 @@ body {
   /* The navbar container */
 .topnav {
     overflow: hidden;
-    background-color: #6a46ff;
+    background-color: #ffffff;
   }
   /* Navbar links */
   .topnav a {
@@ -34,7 +34,7 @@ body {
   }
 
   .column {
-    background-color: #6a46ff;
+    background-color: #ffffff;
     border-color: black;
     text-align: center;
     float: left;
@@ -56,7 +56,7 @@ body {
   }
 
   .column3 {
-    background-color: #6a46ff;
+    background-color: #ffffff;
     border-color: black;
     text-align: center;
     float: left;
@@ -95,7 +95,7 @@ body {
   }
 
   .column5 {
-    background-color: #6a46ff;
+    background-color: #ffffff;
     border-color: black;
     float: left;
     text-align: center;
@@ -106,7 +106,7 @@ body {
     border-style: solid;
   }
   .column6 {
-    background-color: #6a46ff;
+    background-color: #ffffff;
     border-color: black;
     float: right;
     text-align: center;
@@ -117,7 +117,7 @@ body {
     border-style: solid;
   }
   .column7 {
-    background-color: #6a46ff;
+    background-color: #ffffff;
     border-color: black;
     margin-right: auto;
     margin-left: auto;
@@ -164,16 +164,16 @@ body {
   color: #5ca6ff;
 }
 .a2:link {
-  color: #6a46ff;
+  color: #ffffff;
 }
 .a2:visited {
-  color: #6a46ff;
+  color: #ffffff;
 }
 .a2:hover {
   color: red;
 }
 .a2:active {
-  color: #6a46ff;
+  color: #ffffff;
 }
 .a4 {
   max-width: 50%;

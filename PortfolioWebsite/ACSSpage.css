@@ -71,7 +71,7 @@ body {
     border-color: black;
     float: right;
     text-align: center;
-    color: black;
+    color: #f5f5f5;
     width: 48%;
     padding: 10px;
     border-width: 48%;
@@ -97,21 +97,19 @@ body {
   .column5 {
     background-color: #f5f5f5;
     border-color: black;
-    float: left;
     text-align: center;
     color: #5ca6ff;
-    width: 48%;
+    width: auto;
     padding: 10px;
     border-width: 48%;
     border-style: solid;
   }
   .column6 {
-    background-color: #f5f5f5;
+    background-color: #000000;
     border-color: black;
-    float: right;
     text-align: center;
-    color: #5ca6ff;
-    width: 48%;
+    color: #f5f5f5;
+    width: auto;
     padding: 10px;
     border-width: 48%;
     border-style: solid;

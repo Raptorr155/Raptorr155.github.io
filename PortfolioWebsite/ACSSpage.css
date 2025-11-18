@@ -40,10 +40,10 @@ body {
     color: #5ca6ff;
     width: auto;
     padding: 10px;
-    border-width: 75%;
     border-style: solid;
   }
-  .column2 {
+
+  /* .column2 {
     float: right;
     text-align: center;
     color: #5ca6ff;
@@ -51,8 +51,7 @@ body {
     padding: 5px;
     border-color: #5ca6ff;
     border-style: solid;
-    border-width: 20%;
-  }
+    } */
 
   .column3 {
     background-color: #f5f5f5;
@@ -62,7 +61,6 @@ body {
     color: #5ca6ff;
     width: 48%;
     padding: 10px;
-    border-width: 48%;
     border-style: solid;
   }
   .column4 {
@@ -73,7 +71,6 @@ body {
     color: #f5f5f5;
     width: 48%;
     padding: 10px;
-    border-width: 48%;
     border-style: solid;
   }
 
@@ -95,22 +92,20 @@ body {
 
   .column5 {
     background-color: #f5f5f5;
-    border-color: black;
+    border-color: #5ca6ff;
     text-align: center;
     color: #5ca6ff;
     width: auto;
     padding: 10px;
-    border-width: 48%;
     border-style: solid;
   }
   .column6 {
     background-color: #000000;
-    border-color: black;
+    border-color: #5ca6ff;
     text-align: center;
     color: #f5f5f5;
     width: auto;
     padding: 10px;
-    border-width: 48%;
     border-style: solid;
   }
   .column7 {
@@ -122,7 +117,6 @@ body {
     color: #5ca6ff;
     width: 98%;
     padding: 10px;
-    border-width: 98%;
     border-style: solid;
   }
   .column8 {
@@ -132,7 +126,6 @@ body {
     text-align: center;
     width: 98%;
     padding: 10px;
-    border-width: 98%;
     border-style: solid;
   }
 
@@ -146,7 +139,6 @@ body {
   padding: 10px;
   border-color: #5ca6ff;
   border-style: solid;
-  border-width: 21%;
 }
 .a1:link {
   color: #5ca6ff;
@@ -180,12 +172,9 @@ body {
 }
 
   .column9 {
-    background-color: #000000;
-    border-color: black;
     text-align: center;
-    color: #5ca6ff;
+    color: #000000;
     width: auto;
     padding: 10px;
-    border-width: 75%;
     border-style: solid;
   }
